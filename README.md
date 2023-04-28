@@ -4,7 +4,7 @@ I am Xuan, currently living in Delft, the Netherlands✨
 
 I will graduate from TU Delft in July 2023 with a master’s degree in electrical engineering (signals & systems).
 
-I am actively looking for a junior position/traineeship program in data-driven field as a data engineer/data scientist/data analyst which I can put my skills into practice and develop myself into a skilled data professional. Please take a look at my [CV](https://xuangao6.github.io/documents/X.Gao_CV1.pdf).
+I am actively looking for a junior position/traineeship program in data-driven field as a data engineer/data scientist/data analyst which I can put my skills into practice and develop myself into a skilled data professional. Please take a look at my [CV](https://xuangao6.github.io/documents/X.Gao_CV.pdf).
 
 Check the pinned projects for some of my most interesting works :) Thanks!
 
