@@ -4,7 +4,7 @@ I am Xuan, currently living in Delft, the Netherlands✨
 
 I will graduate from TU Delft in July 2023 with a master’s degree in electrical engineering (signals & systems).
 
-I am actively looking for a junior position as a validation engineer where I can put my analytical thinking, customer-focused, communication, proactive, and rigorous skills into work to contribute to a sustainable world.
+I am actively looking for a junior engineer position where I can put my analytical thinking, customer-focused, communication, proactive, and rigorous skills into work to contribute to a sustainable world.
 
 Check the pinned projects for some of my most interesting works :) Thanks!
 
